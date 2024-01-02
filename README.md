@@ -1,4 +1,4 @@
-# Anomaly Detection using Convolutional Auto Encoder
+# Anomaly Detection using Convolutional Auto Encoder and 3D ResNet 
 ## use MVTec dataset
 data.py
 
